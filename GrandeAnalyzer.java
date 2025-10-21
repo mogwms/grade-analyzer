@@ -1,6 +1,3 @@
-// Instructions are provided in a file named Programming Assignment 1 in Blackboard
-// Commit your code with proper comments and push to GitHub before the deadline
-
 import java.util.*;
 
 public class GradeAnalyzer {
