@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class GradeAnalyzer {
     private static Scanner input = new Scanner(System.in);
